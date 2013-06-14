@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The Puzzle Of Life Blog]]></title>
-  <link href="http://hisohito.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: personal | The Puzzle Of Life Blog]]></title>
+  <link href="http://hisohito.github.io/blog/categories/personal/atom.xml" rel="self"/>
   <link href="http://hisohito.github.io/"/>
   <updated>2013-06-14T23:33:02+07:00</updated>
   <id>http://hisohito.github.io/</id>
