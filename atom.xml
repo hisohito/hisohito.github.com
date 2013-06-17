@@ -4,7 +4,7 @@
   <title><![CDATA[Julia's road notes]]></title>
   <link href="http://hisohito.github.io/atom.xml" rel="self"/>
   <link href="http://hisohito.github.io/"/>
-  <updated>2013-06-15T20:09:50+07:00</updated>
+  <updated>2013-06-17T22:29:43+07:00</updated>
   <id>http://hisohito.github.io/</id>
   <author>
     <name><![CDATA[Julia Kostyukova]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mathematician and the devil [video]]]></title>
+    <link href="http://hisohito.github.io/blog/2013/06/17/mathematician-and-the-devil-video/"/>
+    <updated>2013-06-17T22:19:00+07:00</updated>
+    <id>http://hisohito.github.io/blog/2013/06/17/mathematician-and-the-devil-video</id>
+    <content type="html"><![CDATA[<p>This is a really great old video about proof of Fermat&rsquo;s Last Theorem (in Russian).</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/52yhBkkulXw "></iframe></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[It works]]></title>
