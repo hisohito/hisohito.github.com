@@ -1,0 +1,11 @@
+---
+layout: post
+title: "It works"
+date: 2013-06-14 23:18
+comments: true
+categories: personal 
+footer: true
+sharing: true
+---
+
+Here I'll collect all my notes about everything around me.
