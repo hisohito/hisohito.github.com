@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: personal | Julia's road notes]]></title>
+  <link href="http://hisohito.github.io/blog/categories/personal/atom.xml" rel="self"/>
+  <link href="http://hisohito.github.io/"/>
+  <updated>2013-06-20T19:30:18+07:00</updated>
+  <id>http://hisohito.github.io/</id>
+  <author>
+    <name><![CDATA[Julia Kostyukova]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[It works]]></title>
+    <link href="http://hisohito.github.io/blog/2013/06/14/it-works/"/>
+    <updated>2013-06-14T23:18:00+07:00</updated>
+    <id>http://hisohito.github.io/blog/2013/06/14/it-works</id>
+    <content type="html"><![CDATA[<p>Here I&rsquo;ll collect all my notes about everything around me.</p>
+]]></content>
+  </entry>
+  
+</feed>

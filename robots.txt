@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://hisohito.github.io/sitemap.xml 
